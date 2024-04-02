@@ -16,7 +16,7 @@ git clone https://github.com/Motrixx702/Week
 cd Week
 
 
-chmod +x week.sh
+chmod +x weeks.sh
 
 
 
