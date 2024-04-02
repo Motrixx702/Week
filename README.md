@@ -21,7 +21,7 @@ chmod +x weeks.sh
 
 
 
-bash week.sh
+bash weeks.sh
 
 
 لست مسؤولاً عن سوء استخدامك لها
